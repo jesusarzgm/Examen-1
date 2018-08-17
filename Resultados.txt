@@ -1,0 +1,5 @@
+Numero 1 = 10 
+Numero 2= 10
+
+Suma = 20
+Divicion  = 10 
